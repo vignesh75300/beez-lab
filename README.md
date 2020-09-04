@@ -1,1 +1,2 @@
-# beez-lab
+SCANF
+PRINTF
